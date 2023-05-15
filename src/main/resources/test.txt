@@ -1,0 +1,9 @@
+S   0   5
+S   10  15
+L   5   30
+M   100 350
+ss  ss  ss
+ss  ss
+6   6
+s   99  99
+s   99  99 fvjenrvnej;kl
